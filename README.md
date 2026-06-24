@@ -28,8 +28,6 @@ The design includes write and read pointer management, Full and Empty status fla
 
 Synchronous-FIFO-Verilog
 │
-├── FIFO.v
-├── FIFO_tb.v
 ├── FIFO_schematic.png
 ├── FIFO_vivado_sim.png
 ├── Synchronous_FIFO_Report.pdf
